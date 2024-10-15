@@ -1,0 +1,204 @@
+{
+  "itemId" : "_EPjc4FelEe-RMpTvhu7AjQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_SOlu8Vd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database"
+    }, {
+      "id" : "_SOlu8ld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema"
+    }, {
+      "id" : "_SOlu81d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password"
+    }, {
+      "id" : "_SOlu9Fd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server"
+    }, {
+      "id" : "_SOlu9Vd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_SOlu9ld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port"
+    }, {
+      "id" : "_SOlu91d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_fUFW1ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Login"
+    }, {
+      "id" : "_fUFW01d8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Server"
+    }, {
+      "id" : "_fUFW1Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Port"
+    }, {
+      "id" : "_fUFW0ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Password"
+    }, {
+      "id" : "_fUFW0Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Schema"
+    }, {
+      "id" : "_fUFW0Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Database"
+    }, {
+      "id" : "_fUFW1Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_SOmWCFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database"
+    }, {
+      "id" : "_SOmWCVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema"
+    }, {
+      "id" : "_SOmWCld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password"
+    }, {
+      "id" : "_SOmWC1d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server"
+    }, {
+      "id" : "_SOmWDFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_SOmWDVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port"
+    }, {
+      "id" : "_SOmWDld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_fUFW5ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Login"
+    }, {
+      "id" : "_fUFW41d8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Server"
+    }, {
+      "id" : "_fUFW5Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Port"
+    }, {
+      "id" : "_fUFW4ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Password"
+    }, {
+      "id" : "_fUFW4Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Schema"
+    }, {
+      "id" : "_fUFW4Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Database"
+    }, {
+      "id" : "_fUFW5Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_SOmWAFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database"
+    }, {
+      "id" : "_SOmWAVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema"
+    }, {
+      "id" : "_SOmWAld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password"
+    }, {
+      "id" : "_SOmWA1d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server"
+    }, {
+      "id" : "_SOmWBFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_SOmWBVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port"
+    }, {
+      "id" : "_SOmWBld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_fUFW3ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Login"
+    }, {
+      "id" : "_fUFW21d8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Server"
+    }, {
+      "id" : "_fUFW3Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Port"
+    }, {
+      "id" : "_fUFW2ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Password"
+    }, {
+      "id" : "_fUFW2Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Schema"
+    }, {
+      "id" : "_fUFW2Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Database"
+    }, {
+      "id" : "_fUFW3Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_SOmWEFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database"
+    }, {
+      "id" : "_SOmWEVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema"
+    }, {
+      "id" : "_SOmWEld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password"
+    }, {
+      "id" : "_SOmWE1d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server"
+    }, {
+      "id" : "_SOmWFFd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_SOmWFVd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port"
+    }, {
+      "id" : "_SOmWFld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_fUFW7ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Login"
+    }, {
+      "id" : "_fUFW61d8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Server"
+    }, {
+      "id" : "_fUFW7Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Port"
+    }, {
+      "id" : "_fUFW6ld8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Password"
+    }, {
+      "id" : "_fUFW6Vd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Schema"
+    }, {
+      "id" : "_fUFW6Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_Database"
+    }, {
+      "id" : "_fUFW7Fd8Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_EDW_CONNECTION_AdditionalParams"
+    } ]
+  } ]
+}

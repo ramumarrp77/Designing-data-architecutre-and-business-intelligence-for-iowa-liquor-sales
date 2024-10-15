@@ -1,0 +1,376 @@
+{
+  "itemId" : "_XtDU4FaIEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_CMldEFaIEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_CM5mIVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_CM5mIlaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_CM5mI1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_File"
+    }, {
+      "id" : "_CM5mJFaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Encoding"
+    }, {
+      "id" : "_CM5mJVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_QIDLA1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File"
+    }, {
+      "id" : "_QIDLAlaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator"
+    }, {
+      "id" : "_QIDLBFaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding"
+    }, {
+      "id" : "_QIDLAVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator"
+    }, {
+      "id" : "_QIDLBVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_1ICF21aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_role"
+    }, {
+      "id" : "_1ICF1FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_password"
+    }, {
+      "id" : "_1ICF3FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_loginTimeout"
+    }, {
+      "id" : "_1ICF3laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_warehouse"
+    }, {
+      "id" : "_1ICF3VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_1ICF31aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_schemaName"
+    }, {
+      "id" : "_1ICF2VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_1ICF0laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_userId"
+    }, {
+      "id" : "_1ICF0VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientSecret"
+    }, {
+      "id" : "_1ICF01aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_keyAlias"
+    }, {
+      "id" : "_1ICF1laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_scope"
+    }, {
+      "id" : "_1ICF4VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_account"
+    }, {
+      "id" : "_1ICF4FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_jdbcParameters"
+    }, {
+      "id" : "_1ICF11aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_db"
+    }, {
+      "id" : "_1ICF2FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_regionID"
+    }, {
+      "id" : "_1ICF2laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_1ICF1VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientId"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_CMldEFaIEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_CM5mLVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_CM5mLlaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_CM5mL1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_File"
+    }, {
+      "id" : "_CM5mMFaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Encoding"
+    }, {
+      "id" : "_CM5mMVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Header"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_QIDLD1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File"
+    }, {
+      "id" : "_QIDLDlaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator"
+    }, {
+      "id" : "_QIDLEFaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding"
+    }, {
+      "id" : "_QIDLDVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator"
+    }, {
+      "id" : "_QIDLEVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_1ICF_1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_role"
+    }, {
+      "id" : "_1ICF-FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_password"
+    }, {
+      "id" : "_1ICGAFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_loginTimeout"
+    }, {
+      "id" : "_1ICGAlaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_warehouse"
+    }, {
+      "id" : "_1ICGAVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_1ICGA1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_schemaName"
+    }, {
+      "id" : "_1ICF_VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_1ICF9laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_userId"
+    }, {
+      "id" : "_1ICF9VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientSecret"
+    }, {
+      "id" : "_1ICF91aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_keyAlias"
+    }, {
+      "id" : "_1ICF-laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_scope"
+    }, {
+      "id" : "_1ICGBVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_account"
+    }, {
+      "id" : "_1ICGBFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_jdbcParameters"
+    }, {
+      "id" : "_1ICF-1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_db"
+    }, {
+      "id" : "_1ICF_FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_regionID"
+    }, {
+      "id" : "_1ICF_laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_1ICF-VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientId"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_CMldEFaIEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_CM5mJ1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_CM5mKFaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_CM5mKVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_File"
+    }, {
+      "id" : "_CM5mKlaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Encoding"
+    }, {
+      "id" : "_CM5mK1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Header"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_QIDLCVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File"
+    }, {
+      "id" : "_QIDLCFaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator"
+    }, {
+      "id" : "_QIDLClaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding"
+    }, {
+      "id" : "_QIDLB1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator"
+    }, {
+      "id" : "_QIDLC1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_1ICF7VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_role"
+    }, {
+      "id" : "_1ICF5laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_password"
+    }, {
+      "id" : "_1ICF7laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_loginTimeout"
+    }, {
+      "id" : "_1ICF8FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_warehouse"
+    }, {
+      "id" : "_1ICF71aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_1ICF8VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_schemaName"
+    }, {
+      "id" : "_1ICF61aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_1ICF5FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_userId"
+    }, {
+      "id" : "_1ICF41aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientSecret"
+    }, {
+      "id" : "_1ICF5VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_keyAlias"
+    }, {
+      "id" : "_1ICF6FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_scope"
+    }, {
+      "id" : "_1ICF81aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_account"
+    }, {
+      "id" : "_1ICF8laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_jdbcParameters"
+    }, {
+      "id" : "_1ICF6VaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_db"
+    }, {
+      "id" : "_1ICF6laAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_regionID"
+    }, {
+      "id" : "_1ICF7FaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_1ICF51aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientId"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_CMldEFaIEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_CM5mM1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_CM5mNFaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_CM5mNVaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_File"
+    }, {
+      "id" : "_CM5mNlaIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Encoding"
+    }, {
+      "id" : "_CM5mN1aIEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notCleaned_tsv_structured_Header"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_QIDLFVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File"
+    }, {
+      "id" : "_QIDLFFaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator"
+    }, {
+      "id" : "_QIDLFlaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding"
+    }, {
+      "id" : "_QIDLE1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator"
+    }, {
+      "id" : "_QIDLF1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_1ICGEVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_role"
+    }, {
+      "id" : "_1ICGClaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_password"
+    }, {
+      "id" : "_1ICGElaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_loginTimeout"
+    }, {
+      "id" : "_1ICGFFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_warehouse"
+    }, {
+      "id" : "_1ICGE1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_1ICGFVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_schemaName"
+    }, {
+      "id" : "_1ICGD1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_1ICGCFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_userPassword_userId"
+    }, {
+      "id" : "_1ICGB1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientSecret"
+    }, {
+      "id" : "_1ICGCVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_keyAlias"
+    }, {
+      "id" : "_1ICGDFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_scope"
+    }, {
+      "id" : "_1ICGF1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_account"
+    }, {
+      "id" : "_1ICGFlaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_jdbcParameters"
+    }, {
+      "id" : "_1ICGDVaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_db"
+    }, {
+      "id" : "_1ICGDlaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_regionID"
+    }, {
+      "id" : "_1ICGEFaAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_1ICGC1aAEe-1Oa_I6AiDfQ",
+      "name" : "IOWA_LIQUOR_SALE_SNOWFLAKE_PROFILING_oauthProperties_clientId"
+    } ]
+  } ]
+}

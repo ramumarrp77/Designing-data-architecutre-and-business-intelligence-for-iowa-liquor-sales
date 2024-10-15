@@ -1,0 +1,55 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<externalNode i18n.job.component.parameters="Component Parameters:" i18n.job.properties="Properties" i18n.job.values="Values" i18n.mapper.table.for="Mapper table for " i18n.mapper.table.properties="Mapper table Properties" i18n.job.name="Name" i18n.tmap.matching.mode="Matching-mode" i18n.mapper.table.isminimized="isMinimized" i18n.tmap.isreject="isReject" i18n.tmap.isrejectinnnerjoin="isRejectInnerJoin" i18n.tmap.isinnerjoin="isInnerJoin" i18n.tmap.expressionfilter="expressionFilter" i18n.mapper.table.metadata.entries="Metadata Table Entries" i18n.job.type="Type" i18n.mapper.table.expression="Expression" i18n.tmap.isnullable="isNullable" i18n.tmap.constraint.entries="Constraint Table Entries" name="tMap_3" preview="pictures/_s7ROIFeQEe-RMpTvhu7AjQ-tMap_3-PREVIEW.bmp">
+  <parameters>
+    <column name="tStatCatcher Statistics">false</column>
+    <column name="Mapping links display as:">AUTO</column>
+    <column name="Temp data directory path:"></column>
+    <column name="Max buffer size (nb of rows):">2000000</column>
+    <column name="Ignore trailing zeros for BigDecimal">true</column>
+    <column name="Show Information">false</column>
+    <column name="Comment"><![CDATA[]]></column>
+    <column name="Use an existing validation rule">false</column>
+  </parameters>
+  <mapperTable type="input">
+    <table name="categories_transformed" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Category" type="Integer" expression="" isNullable="true"/>
+        <entry name="Category_Name" type="String" expression="" isNullable="true"/>
+        <entry name="dim_source_sk" type="Integer" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+    <table name="max_sk" matching-mode="ALL_ROWS" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="DIM_CATEGORY_SK" type="int" expression="" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+    <table name="curr_tbl" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="true" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="SOURCE_CATEGORY_NUMBER" type="int" expression="categories_transformed.Category " isNullable="false"/>
+        <entry name="CATEGORY_NAME" type="String" expression="categories_transformed.Category_Name " isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="output">
+    <table name="dim_category_tbl_load" isMinimized="false" isReject="false" isRejectInnerJoin="true" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="DIM_CATEGORY_SK" type="int" expression="max_sk.DIM_CATEGORY_SK &gt;0 ? Numeric.sequence(&quot;dim_category_sk&quot;,max_sk.DIM_CATEGORY_SK+1,1):Numeric.sequence(&quot;dim_category_sk&quot;,1,1) " isNullable="false"/>
+        <entry name="SOURCE_CATEGORY_NUMBER" type="int" expression="categories_transformed.Category " isNullable="false"/>
+        <entry name="CATEGORY_NAME" type="String" expression="categories_transformed.Category_Name " isNullable="true"/>
+        <entry name="DW_LOAD_WORKFLOW_NAME" type="String" expression="context.workflow_name" isNullable="false"/>
+        <entry name="DW_LOAD_JOB_ID" type="String" expression="Var.dw_job_id" isNullable="false"/>
+        <entry name="DW_LOAD_DATE" type="java.util.Date" expression="Var.dw_load_date" isNullable="false"/>
+        <entry name="DIM_SOURCE_SK" type="int" expression="categories_transformed.dim_source_sk " isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="var">
+    <table name="Var" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="dw_load_date" type="java.util.Date" expression="TalendDate.getCurrentDate() " isNullable="false"/>
+        <entry name="dw_job_id" type="String" expression="pid" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+</externalNode>

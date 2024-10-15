@@ -1,0 +1,23 @@
+{
+  "itemId" : "_JMt28FaTEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_H_WE4FaTEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_IBG_cVaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_County_Population_by_Year_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_IBG_claTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_County_Population_by_Year_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_IBG_c1aTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_County_Population_by_Year_tsv_structured_File"
+    }, {
+      "id" : "_IBG_dFaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_County_Population_by_Year_tsv_structured_Encoding"
+    }, {
+      "id" : "_IBG_dVaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_County_Population_by_Year_tsv_structured_Header"
+    } ]
+  } ]
+}

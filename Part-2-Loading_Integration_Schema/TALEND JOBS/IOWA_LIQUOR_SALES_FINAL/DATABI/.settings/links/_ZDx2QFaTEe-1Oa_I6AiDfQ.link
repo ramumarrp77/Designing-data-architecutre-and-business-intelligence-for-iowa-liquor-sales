@@ -1,0 +1,23 @@
+{
+  "itemId" : "_ZDx2QFaTEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Xz3tkFaTEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_X0OS4VaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_liquor_sales_by_year_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_X0OS4laTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_liquor_sales_by_year_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_X0OS41aTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_liquor_sales_by_year_tsv_structured_File"
+    }, {
+      "id" : "_X0OS5FaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_liquor_sales_by_year_tsv_structured_Encoding"
+    }, {
+      "id" : "_X0OS5VaTEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_liquor_sales_by_year_tsv_structured_Header"
+    } ]
+  } ]
+}

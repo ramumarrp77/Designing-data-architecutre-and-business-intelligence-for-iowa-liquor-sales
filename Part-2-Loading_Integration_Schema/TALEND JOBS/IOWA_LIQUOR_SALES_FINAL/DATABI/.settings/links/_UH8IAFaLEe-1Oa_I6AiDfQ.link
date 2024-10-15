@@ -1,0 +1,23 @@
+{
+  "itemId" : "_UH8IAFaLEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_QIDLAVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator"
+    }, {
+      "id" : "_QIDLAlaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator"
+    }, {
+      "id" : "_QIDLA1aLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File"
+    }, {
+      "id" : "_QIDLBFaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding"
+    }, {
+      "id" : "_QIDLBVaLEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header"
+    } ]
+  } ]
+}

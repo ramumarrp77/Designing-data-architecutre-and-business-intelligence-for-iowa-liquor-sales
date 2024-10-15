@@ -1,0 +1,29 @@
+{
+  "itemId" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "parameterList" : [ {
+      "id" : "_SOlu8Vd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database"
+    }, {
+      "id" : "_SOlu8ld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema"
+    }, {
+      "id" : "_SOlu81d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password"
+    }, {
+      "id" : "_SOlu9Fd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server"
+    }, {
+      "id" : "_SOlu9Vd2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_SOlu9ld2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port"
+    }, {
+      "id" : "_SOlu91d2Ee-RMpTvhu7AjQ",
+      "name" : "IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login"
+    } ]
+  } ]
+}

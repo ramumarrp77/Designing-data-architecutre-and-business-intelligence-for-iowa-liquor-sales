@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_QIDLAFaLEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_QIDLAVaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_QIDLAlaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Iowa_Liquor_Sales_notCleaned.tsv" xmi:id="_QIDLA1aLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_QIDLBFaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_QIDLBVaLEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Dev" xmi:id="_QIDLBlaLEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_QIDLB1aLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_QIDLCFaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/NEU/DATA_BI/Data-IowaLiquorSales/Data-IowaLiquorSales/Iowa_Liquor_Sales_notCleaned.tsv" xmi:id="_QIDLCVaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_QIDLClaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_QIDLC1aLEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Prod" xmi:id="_QIDLDFaLEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_QIDLDVaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_QIDLDlaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Iowa_Liquor_Sales_notCleaned.tsv" xmi:id="_QIDLD1aLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_QIDLEFaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_QIDLEVaLEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_QIDLElaLEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_QIDLE1aLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_QIDLFFaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Iowa_Liquor_Sales_notCleaned.tsv" xmi:id="_QIDLFVaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_QIDLFlaLEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header" prompt="Iowa_Liquor_Sales_notcleaned_tsv_structured_1_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_QIDLF1aLEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_599f1cdf-541c-4457-9cbd-82c0801a5056"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ZPbkJnv/8r6omC7G0BmRYx1BfIr37OuikAablXLX2OWU045y+uEkFKzhoIkUz8nhmGz5vTC7JddE&#13;
+LMLo2QM4KA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_86dd6ea5-136f-4592-ae91-54e71f05cef2"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>6kti47e932dK9whK1vueuIcNveYevWu6wkHfaycZgOfPU/pdJupyOjgBo0wyJL/Jb4SlshBaQniw&#13;
+YvzNHjkeoQ==</DigestValue></Reference></SignedInfo><SignatureValue>noR1GJcs52wQ8WPmNlmOArq/YjC239ap3Ep7FnGSQJFhy+F/dry8Zm+IeSTPVTk1L5fuHv9pv9Sc&#13;
+KU/5SAnK4wEIeAHYqnS3c2uHKbgCzvNw3tWH/jl5r/tOjnk5tc6wyAyNnO5aOYeXfd6aA2ZR5GfZ&#13;
+3G16dSywlhg7sfgreOTVF4HIdB3S9aowPBJe74AAKDo07ubWDMeKa1msGXbMJsc6sOdbJfmXnTsB&#13;
+TCcYDxbmJGmCeU4lQZ62EEc58d1c8EIoznNk9UKgRb1Ip9YP7F95833tVjXsbfVpFvNdKBL4tHtN&#13;
+YJVlR1VP5uVCCmM1Hu3Lq13XkR58XkzPPJ2CEA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_86dd6ea5-136f-4592-ae91-54e71f05cef2" Target="#_599f1cdf-541c-4457-9cbd-82c0801a5056"><Timestamp>2024-08-14 04:55:34</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

@@ -1,0 +1,48 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<externalNode i18n.job.component.parameters="Component Parameters:" i18n.job.properties="Properties" i18n.job.values="Values" i18n.mapper.table.for="Mapper table for " i18n.mapper.table.properties="Mapper table Properties" i18n.job.name="Name" i18n.tmap.matching.mode="Matching-mode" i18n.mapper.table.isminimized="isMinimized" i18n.tmap.isreject="isReject" i18n.tmap.isrejectinnnerjoin="isRejectInnerJoin" i18n.tmap.isinnerjoin="isInnerJoin" i18n.tmap.expressionfilter="expressionFilter" i18n.mapper.table.metadata.entries="Metadata Table Entries" i18n.job.type="Type" i18n.mapper.table.expression="Expression" i18n.tmap.isnullable="isNullable" i18n.tmap.constraint.entries="Constraint Table Entries" name="tMap_6" preview="pictures/_hCLPAFjqEe-icM7TK_-09Q-tMap_6-PREVIEW.bmp">
+  <parameters>
+    <column name="tStatCatcher Statistics">false</column>
+    <column name="Mapping links display as:">AUTO</column>
+    <column name="Temp data directory path:"></column>
+    <column name="Max buffer size (nb of rows):">2000000</column>
+    <column name="Ignore trailing zeros for BigDecimal">true</column>
+    <column name="Show Information">false</column>
+    <column name="Comment"><![CDATA[]]></column>
+    <column name="Use an existing validation rule">false</column>
+  </parameters>
+  <mapperTable type="input">
+    <table name="county_merged" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Year" type="Integer" expression="" isNullable="true"/>
+        <entry name="County" type="String" expression="" isNullable="true"/>
+        <entry name="Population" type="Integer" expression="" isNullable="true"/>
+        <entry name="Sale__Dollars" type="Float" expression="" isNullable="true"/>
+        <entry name="Volume_Sold__Gallons" type="Float" expression="" isNullable="true"/>
+        <entry name="dim_source_sk" type="Integer" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+    <table name="dim_county_tbl" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="true" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="DIM_COUNTRY_SK" type="int" expression="" isNullable="false"/>
+        <entry name="COUNTY_NAME" type="String" expression="county_merged.County " isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="output">
+    <table name="fact_county_yearly_trnasformed" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Year" type="Integer" expression="county_merged.Year " isNullable="true"/>
+        <entry name="DIM_COUNTRY_SK" type="int" expression="dim_county_tbl.DIM_COUNTRY_SK " isNullable="false"/>
+        <entry name="County" type="String" expression="county_merged.County " isNullable="true"/>
+        <entry name="Population" type="Integer" expression="county_merged.Population " isNullable="true"/>
+        <entry name="sale_dollars" type="Float" expression="county_merged.Sale__Dollars " isNullable="true"/>
+        <entry name="volume_sold_gallons" type="Float" expression="county_merged.Volume_Sold__Gallons " isNullable="true"/>
+        <entry name="dim_source_sk" type="Integer" expression="county_merged.dim_source_sk " isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="var">
+    <table name="Var" isMinimized="true" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null"/>
+  </mapperTable>
+</externalNode>

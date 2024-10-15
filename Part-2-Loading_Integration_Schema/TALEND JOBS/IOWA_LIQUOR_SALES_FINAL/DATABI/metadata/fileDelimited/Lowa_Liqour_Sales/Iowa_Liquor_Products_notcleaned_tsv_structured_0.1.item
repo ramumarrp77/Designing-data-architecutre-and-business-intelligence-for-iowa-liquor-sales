@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DelimitedFileConnection ContextId="_ct-skFaSEe-1Oa_I6AiDfQ" ContextMode="true" Encoding="context.Iowa_Liquor_Products_notcleaned_tsv_structured_Encoding" FieldSeparatorType="Custom UTF8" FieldSeparatorValue="context.Iowa_Liquor_Products_notcleaned_tsv_structured_FieldSeparator" FilePath="context.Iowa_Liquor_Products_notcleaned_tsv_structured_File" FirstLineCaption="true" HeaderValue="context.Iowa_Liquor_Products_notcleaned_tsv_structured_Header" RowSeparatorValue="context.Iowa_Liquor_Products_notcleaned_tsv_structured_RowSeparator" Server="Localhost 127.0.0.1" UseHeader="true" contextName="Default" dataPackage="_deKMUlaSEe-1Oa_I6AiDfQ" name="Iowa_Liquor_Products_notcleaned_tsv_structured" xmi:id="_deKMUVaSEe-1Oa_I6AiDfQ"/>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_deKMUVaSEe-1Oa_I6AiDfQ" name="default" xmi:id="_deKMUlaSEe-1Oa_I6AiDfQ">
+    <ownedElement id="_StFPYFaSEe-1Oa_I6AiDfQ" label="metadata" xmi:id="_deKMU1aSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="Item_Number" length="6" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMVFaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Category_Name" length="30" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMVVaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Item_Description" length="47" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMVlaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Vendor" length="3" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMV1aSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Vendor_Name" length="34" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMWFaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Bottle_Volume__ml" length="4" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMWVaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Pack" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMWlaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Inner_Pack" length="3" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMW1aSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Age" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMXFaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Proof" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_deKMXVaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="List_Date" length="10" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMXlaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="UPC" length="12" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMX1aSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="SCC" length="14" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Long" xmi:id="_deKMYFaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="State_Bottle_Cost" length="6" pattern="&quot;dd-MM-yyyy&quot;" precision="4" talendType="id_Float" xmi:id="_deKMYVaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="State_Case_Cost" length="6" pattern="&quot;dd-MM-yyyy&quot;" precision="4" talendType="id_Float" xmi:id="_deKMYlaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="State_Bottle_Retail" length="6" pattern="&quot;dd-MM-yyyy&quot;" precision="4" talendType="id_Float" xmi:id="_deKMY1aSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Report_Date" length="10" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_deKMZFaSEe-1Oa_I6AiDfQ" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_35c4d937-9154-4698-9f0c-02562873bcbb"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>SlKYizdN9vDkfdUjClWLuu5YI95zL0UTjSXTNAuwcNOyzmyU9kagC/PZRQx8B1ulHOAJ+58/Cz2Z&#13;
+5nyoNiSyiQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_eb87f682-d918-4efa-8cc8-897b5f2b2c66"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>AEbDoeZu2tHfirlApINuHkUm/RatIudktlnfVKrB5HG2PUyGcJTBUM1mnA/JHFBewk1vygtEBadh&#13;
+fiBqcy96eQ==</DigestValue></Reference></SignedInfo><SignatureValue>pzC1FWbb5HuN4bk23yYOqsDlYEjW54mExFxZGA/huX2gcgyL142y4jGSvEzRE+BheQc5jbxqxYGu&#13;
+TW7dmOlwJwmScprPqoVDgMH1OjKqx414QtcVFc4iWgqrIRPhrrSzr9J+DjoLGocoEThKndvDxRsJ&#13;
+zDYn44DSbXWJ4s/zBMNhM3IAAsjd+oWUmg2Yt4ABJWVIBD6RzVOoIHfp/7oe9+li30k/BkF+F4/d&#13;
+TRHBB4UTodxWNSyyiPjpflClaTv07ROA2UkOJBu7unt7/Cf4T5RvBvOytiNT9gW7CyVctWZVVWbT&#13;
+HQHjZDCFj1lhPUGSiPmIH1BcwGvcVfYD3nawqQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_eb87f682-d918-4efa-8cc8-897b5f2b2c66" Target="#_35c4d937-9154-4698-9f0c-02562873bcbb"><Timestamp>2024-08-11 20:02:49</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

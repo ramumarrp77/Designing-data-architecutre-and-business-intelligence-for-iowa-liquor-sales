@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_SOlu8Fd2Ee-RMpTvhu7AjQ">
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DAMG7370SU24" xmi:id="_SOlu8Vd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stage" xmi:id="_SOlu8ld2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:MfhBeG1LVE2VDqIk48FQWTL8Zsp+nz3DGXSs/qZdxUbxDohnNg==" xmi:id="_SOlu81d2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sqlserverdamg73701.database.windows.net" xmi:id="_SOlu9Fd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SOlu9Vd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SOlu9ld2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="damg7370" xmi:id="_SOlu91d2Ee-RMpTvhu7AjQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Dev" xmi:id="_SOlu-Fd2Ee-RMpTvhu7AjQ">
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DAMG7370SU24" xmi:id="_SOmWAFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stage" xmi:id="_SOmWAVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:nSoSmpFCfmJ1nGN1Z8IJnZlfQpRLpkAI6ERNrP4adA0hieq6Og==" xmi:id="_SOmWAld2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sqlserverdamg73701.database.windows.net" xmi:id="_SOmWA1d2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SOmWBFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SOmWBVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="damg7370" xmi:id="_SOmWBld2Ee-RMpTvhu7AjQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Prod" xmi:id="_SOmWB1d2Ee-RMpTvhu7AjQ">
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DAMG7370SU24" xmi:id="_SOmWCFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stage" xmi:id="_SOmWCVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:9tsZbwey23UGM0RZ3IXSa1zP4ee4GKXbW0Fuzp68T1NOgE/HVA==" xmi:id="_SOmWCld2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sqlserverdamg73701.database.windows.net" xmi:id="_SOmWC1d2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SOmWDFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SOmWDVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="damg7370" xmi:id="_SOmWDld2Ee-RMpTvhu7AjQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_SOmWD1d2Ee-RMpTvhu7AjQ">
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="IOWA_LIQUOR_DB" xmi:id="_SOmWEFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="STAGE" xmi:id="_SOmWEVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:CkSwIc2RfPmcMVXErvdrGLQU0gcZcjp3alGVsGrCOBhnM2P5ig==" xmi:id="_SOmWEld2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sqlserverdamg73701.database.windows.net" xmi:id="_SOmWE1d2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_SOmWFFd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_SOmWFVd2Ee-RMpTvhu7AjQ"/>
+    <contextParameter comment="" name="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login" prompt="IOWA_LIQUOR_SALES_AZURE_STAGING_CONNECTION_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="damg7370" xmi:id="_SOmWFld2Ee-RMpTvhu7AjQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_89c8ed80-bb0f-45e4-bfaa-298929210766"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>IWSz18Q9d2ft42gGnSHeVsK3PbF/peTb4epSdXqKNsuQdbt4vrykWB+UxOA9S8O/Dm9Ud+oqbYcg&#13;
+F+E1SHkl+A==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_170c2f18-360a-4909-b720-26ec66361633"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>89+5NfzjAni6D9SQgPCwPF9LoNaNsXgRyhe3lRXXj12ahOwvELUdq+qcAJYEUPTxk/2sU3Clrkma&#13;
+dLRgF1q9xg==</DigestValue></Reference></SignedInfo><SignatureValue>VPLN7a5REM3ftom7ZG7Ze8mU3Eq6HMrnWb+PBJawKC775ZwoTNC1MER+ibe1kFkkEFxdJBx1weHP&#13;
+fgPOSoDZ5glVpKpiTbSBvbAVbQE5xUxqHaU5Iky9YZdRuydb1JXnjRMkUnX1J9b/N2wmOy5GYD6A&#13;
+XU1LwsygeCNTCcPya1RX6QMynewVsWn2UJlyCIjyZz5lHl+p/ny7O5v7thcLC85DUTG9oJ4wKZF1&#13;
+dTf+buMlQo6mOe7MQLUNdYf8k7zZ8HYKPQcbQA2fF7BD8NR6+013R4n/wIrmu4iIP7Uu0IX/yy7S&#13;
+CbmwflYh9/THNYBSi77qIKe44nlEJuRFKHhfaQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_170c2f18-360a-4909-b720-26ec66361633" Target="#_89c8ed80-bb0f-45e4-bfaa-298929210766"><Timestamp>2024-08-12 02:59:01</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

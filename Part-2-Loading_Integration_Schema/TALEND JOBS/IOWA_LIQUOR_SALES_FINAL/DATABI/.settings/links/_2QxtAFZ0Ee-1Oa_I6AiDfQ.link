@@ -1,0 +1,23 @@
+{
+  "itemId" : "_2QxtAFZ0Ee-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_0WRIIFZ0Ee-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_0XR0wVZ0Ee-1Oa_I6AiDfQ",
+      "name" : "lowa_Liquor_Sales_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_0XR0wlZ0Ee-1Oa_I6AiDfQ",
+      "name" : "lowa_Liquor_Sales_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_0XR0w1Z0Ee-1Oa_I6AiDfQ",
+      "name" : "lowa_Liquor_Sales_tsv_structured_File"
+    }, {
+      "id" : "_0XSb0FZ0Ee-1Oa_I6AiDfQ",
+      "name" : "lowa_Liquor_Sales_tsv_structured_Encoding"
+    }, {
+      "id" : "_0XSb0VZ0Ee-1Oa_I6AiDfQ",
+      "name" : "lowa_Liquor_Sales_tsv_structured_Header"
+    } ]
+  } ]
+}

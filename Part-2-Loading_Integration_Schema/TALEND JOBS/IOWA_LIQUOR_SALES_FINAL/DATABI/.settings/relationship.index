@@ -1,0 +1,968 @@
+[ {
+  "baseItem" : {
+    "id" : "_0dmKUFhEEe-nF6qfWi20Tw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6XPS8FevEe-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6mGMIFegEe-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_PRODUCTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_VENDOR",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EPjc4FelEe-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_STORES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_STORE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NteLkFgjEe-nF6qfWi20Tw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_CITY_POPULATION_BY_YEAR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_STORES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_CITY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Pl6w0FeoEe-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_PRODUCTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RGQIYFZ6Ee-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0WRIIFZ0Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_2QxtAFZ0Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2QxtAFZ0Ee-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_TXrw0FgtEe-nF6qfWi20Tw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_COUNTY_POPULATION_BY_YEAR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES_BY_YEAR_AND_COUNTY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_COUNTY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XtDU4FaIEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_CMldEFaIEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_QGMw4FaLEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_UH8IAFaLEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UH8IAFaLEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__PqcwFinEe-nF6qfWi20Tw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_CATEGORY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_CITY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_COUNTY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_DATE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_LOCATION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_STORE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_VENDOR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - FACT_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ah82sFj_Ee-icM7TK_-09Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_CITY_POPULATION_BY_YEAR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_CITY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - FACT_CITY_YEARLY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_b96YMFarEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xYq9gFaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yP7VoFaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yP7VoFaTEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cLYuYFhqEe-nF6qfWi20Tw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_STORES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_LOCATION",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ewQFUFadEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_FywuAFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_RCEfEFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RCEfEFaSEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - etl_job",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - etl_job_log",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gmQU8FauEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_H_WE4FaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_JMt28FaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_JMt28FaTEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_hCLPAFjqEe-icM7TK_-09Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_COUNTY_POPULATION_BY_YEAR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES_BY_YEAR_AND_COUNTY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_COUNTY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - FACT_COUNTY_YEARLY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iR3fAFaqEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_2svUoFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_3YSzEFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_3YSzEFaSEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ - STG_IOWA_LIQUOR_STORES_NOTCLEANED",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_k0VGoFaoEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_rJJVoFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r-H10FaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ - STG_IOWA_LIQUOR_STORES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r-H10FaSEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rTVf0Fe4Ee-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DATABI:_6XPS8FevEe-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_6mGMIFegEe-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_EPjc4FelEe-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_NteLkFgjEe-nF6qfWi20Tw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_Pl6w0FeoEe-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_TXrw0FgtEe-nF6qfWi20Tw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:__PqcwFinEe-nF6qfWi20Tw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_ah82sFj_Ee-icM7TK_-09Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_cLYuYFhqEe-nF6qfWi20Tw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_hCLPAFjqEe-icM7TK_-09Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_s7ROIFeQEe-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - etl_job_log",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rmklkFafEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_ct-skFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_deKMUFaSEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_deKMUFaSEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_s7ROIFeQEe-RMpTvhu7AjQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_SNh_AFd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fTv_oFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DATABI:_f5VnIFl4Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DATABI:_rV44EFl6Ee-dRvLB1p_zYg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_PRODUCTS",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_DRFN0Fd2Ee-RMpTvhu7AjQ - STG_IOWA_LIQUOR_SALES",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_SOQwEFd8Ee-RMpTvhu7AjQ - DIM_CATEGORY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_tLsWAFavEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kgDFQFaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_leGB4FaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_leGB4FaTEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wzN2UFavEe-1Oa_I6AiDfQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1HsHkFaAEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Xz3tkFaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_ZDx2QFaTEe-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kgln4FZ_Ee-1Oa_I6AiDfQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZDx2QFaTEe-1Oa_I6AiDfQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

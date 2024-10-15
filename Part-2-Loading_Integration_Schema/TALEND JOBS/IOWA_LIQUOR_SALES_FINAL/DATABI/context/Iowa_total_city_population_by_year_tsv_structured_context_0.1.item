@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_xZTPoFaTEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_RowSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_xZTPoVaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_xZTPolaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_File" prompt="Iowa_total_city_population_by_year_tsv_structured_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Total_City_Population_by_Year.tsv" xmi:id="_xZTPo1aTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Encoding" prompt="Iowa_total_city_population_by_year_tsv_structured_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_xZTPpFaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Header" prompt="Iowa_total_city_population_by_year_tsv_structured_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_xZTPpVaTEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Dev" xmi:id="_xZTPplaTEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_RowSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_xZTPp1aTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_xZTPqFaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_File" prompt="Iowa_total_city_population_by_year_tsv_structured_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/NEU/DATA_BI/Data-IowaLiquorSales/Data-IowaLiquorSales/Total_City_Population_by_Year.tsv" xmi:id="_xZTPqVaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Encoding" prompt="Iowa_total_city_population_by_year_tsv_structured_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_xZTPqlaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Header" prompt="Iowa_total_city_population_by_year_tsv_structured_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_xZTPq1aTEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Prod" xmi:id="_xZTPrFaTEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_RowSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_xZTPrVaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_xZTPrlaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_File" prompt="Iowa_total_city_population_by_year_tsv_structured_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Total_City_Population_by_Year.tsv" xmi:id="_xZTPr1aTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Encoding" prompt="Iowa_total_city_population_by_year_tsv_structured_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_xZTPsFaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Header" prompt="Iowa_total_city_population_by_year_tsv_structured_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_xZTPsVaTEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_xZTPslaTEe-1Oa_I6AiDfQ">
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_RowSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_RowSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\n&quot;" xmi:id="_xZTPs1aTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator" prompt="Iowa_total_city_population_by_year_tsv_structured_FieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;\t&quot;" xmi:id="_xZTPtFaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_File" prompt="Iowa_total_city_population_by_year_tsv_structured_File?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="/Users/ramkumarrp/Downloads/IOWA_DATA/Total_City_Population_by_Year.tsv" xmi:id="_xZTPtVaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Encoding" prompt="Iowa_total_city_population_by_year_tsv_structured_Encoding?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8" xmi:id="_xZTPtlaTEe-1Oa_I6AiDfQ"/>
+    <contextParameter comment="" name="Iowa_total_city_population_by_year_tsv_structured_Header" prompt="Iowa_total_city_population_by_year_tsv_structured_Header?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="1" xmi:id="_xZTPt1aTEe-1Oa_I6AiDfQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7ff58998-38c3-48e1-9886-28e3f056aa8f"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>6aPWXqhJ88w5K0yIUmrZRgcdy+4VpBkt3AneeLPShxg/ke64FStVHyH13AOsH1WXePeGPgXEcmcy&#13;
+mZfP/MYURQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_574e6999-3114-4b34-8557-b1a735b8c8cb"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>14IzjVqEm1PneDBu1B4MBerxGz03AnZxqIkyn9bKMNUieNNJrbqm0+mfnkJSydXM0RTBZ41k4/UM&#13;
+lKI9TJoRkw==</DigestValue></Reference></SignedInfo><SignatureValue>psN6p032q5empS6TvbxPqkZibklyl3zA0Mmgi1uRZ+ZA/J4l9dLcxS5M76KIchRk0KtRvgq4Azw3&#13;
+CZXsu4A/kWo1dsmZmkEeG2Sf3Oow3LhyDWGeV/NrGlKL0WIxaoCeWfE5P92ihduUQ0ohq2w36Kzn&#13;
+4kbwPMGcudyfLto74GcXH8FM+LZowzt/yMoApk+/B+oLHFbGBAX9lsE57OvXYGbnWZATtws1RKu+&#13;
+BOO8f3gGRIk+PP2pwFbQIpPOtsx6ikh7cThfpNLNFWlhaUtrn+oOm/Zam4G45pfKx+6svVxg2NYK&#13;
+TX3RADxY7SOa/kzwBi9nLOcNkSTOk35XsQ/QaQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_574e6999-3114-4b34-8557-b1a735b8c8cb" Target="#_7ff58998-38c3-48e1-9886-28e3f056aa8f"><Timestamp>2024-08-14 04:44:17</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

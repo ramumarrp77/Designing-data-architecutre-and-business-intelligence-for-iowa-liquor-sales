@@ -1,0 +1,23 @@
+{
+  "itemId" : "_3YSzEFaSEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_2svUoFaSEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_2tMnoVaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Stores_notcleaned_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_2tMnolaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Stores_notcleaned_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_2tMno1aSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Stores_notcleaned_tsv_structured_File"
+    }, {
+      "id" : "_2tMnpFaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Stores_notcleaned_tsv_structured_Encoding"
+    }, {
+      "id" : "_2tMnpVaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Stores_notcleaned_tsv_structured_Header"
+    } ]
+  } ]
+}

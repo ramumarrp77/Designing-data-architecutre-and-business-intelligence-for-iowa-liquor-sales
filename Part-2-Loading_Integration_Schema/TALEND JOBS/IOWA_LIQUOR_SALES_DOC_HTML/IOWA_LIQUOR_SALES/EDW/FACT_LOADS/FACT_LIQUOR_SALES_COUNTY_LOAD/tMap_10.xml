@@ -1,0 +1,75 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<externalNode i18n.job.component.parameters="Component Parameters:" i18n.job.properties="Properties" i18n.job.values="Values" i18n.mapper.table.for="Mapper table for " i18n.mapper.table.properties="Mapper table Properties" i18n.job.name="Name" i18n.tmap.matching.mode="Matching-mode" i18n.mapper.table.isminimized="isMinimized" i18n.tmap.isreject="isReject" i18n.tmap.isrejectinnnerjoin="isRejectInnerJoin" i18n.tmap.isinnerjoin="isInnerJoin" i18n.tmap.expressionfilter="expressionFilter" i18n.mapper.table.metadata.entries="Metadata Table Entries" i18n.job.type="Type" i18n.mapper.table.expression="Expression" i18n.tmap.isnullable="isNullable" i18n.tmap.constraint.entries="Constraint Table Entries" name="tMap_10" preview="pictures/__PqcwFinEe-nF6qfWi20Tw-tMap_10-PREVIEW.bmp">
+  <parameters>
+    <column name="tStatCatcher Statistics">false</column>
+    <column name="Mapping links display as:">AUTO</column>
+    <column name="Temp data directory path:"></column>
+    <column name="Max buffer size (nb of rows):">2000000</column>
+    <column name="Ignore trailing zeros for BigDecimal">true</column>
+    <column name="Show Information">false</column>
+    <column name="Comment"><![CDATA[]]></column>
+    <column name="Use an existing validation rule">false</column>
+  </parameters>
+  <mapperTable type="input">
+    <table name="sales_fk_transformed" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="Invoice_Item_Number" type="String" expression="" isNullable="true"/>
+        <entry name="DIM_ITEM_SK" type="int" expression="" isNullable="false"/>
+        <entry name="DIM_CATEGORY_SK" type="Integer" expression="" isNullable="true"/>
+        <entry name="DIM_VENDOR_SK" type="int" expression="" isNullable="false"/>
+        <entry name="DIM_STORE_SK" type="int" expression="" isNullable="false"/>
+        <entry name="DIM_LOCATION_SK" type="int" expression="" isNullable="false"/>
+        <entry name="DIM_CITY_SK" type="int" expression="" isNullable="false"/>
+        <entry name="DIM_COUNTRY_SK" type="int" expression="" isNullable="false"/>
+        <entry name="invoice_date" type="Integer" expression="" isNullable="true"/>
+        <entry name="Bottles_Sold" type="Integer" expression="" isNullable="true"/>
+        <entry name="Sale__Dollars" type="Float" expression="" isNullable="true"/>
+        <entry name="Volume_Sold__Liters" type="Float" expression="" isNullable="true"/>
+        <entry name="Volume_Sold__Gallons" type="Float" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+    <table name="max_sk" matching-mode="ALL_ROWS" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="FACT_LIQUOR_SALES_SK" type="int" expression="" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+    <table name="curr_tbl" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="true" isPersistent="false" expressionFilter="null" activateExpressionFilter="true" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="SOURCE_INVOICE_NUMBER_NK" type="String" expression="sales_fk_transformed.Invoice_Item_Number " isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="output">
+    <table name="fact_liquor_sales_tbl_load" isMinimized="false" isReject="false" isRejectInnerJoin="true" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="true" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="FACT_LIQUOR_SALES_SK" type="int" expression="max_sk.FACT_LIQUOR_SALES_SK &gt; 0 ?Numeric.sequence(&quot;fact_liquor_sales&quot;,max_sk.FACT_LIQUOR_SALES_SK+1,1): Numeric.sequence(&quot;fact_liquor_sales&quot;,1,1) " isNullable="false"/>
+        <entry name="SOURCE_INVOICE_NUMBER_NK" type="String" expression="sales_fk_transformed.Invoice_Item_Number " isNullable="false"/>
+        <entry name="DIM_ITEM_SK" type="int" expression="sales_fk_transformed.DIM_ITEM_SK" isNullable="false"/>
+        <entry name="DIM_CATEGORY_SK" type="int" expression="sales_fk_transformed.DIM_CATEGORY_SK" isNullable="false"/>
+        <entry name="DIM_VENDOR_SK" type="int" expression="sales_fk_transformed.DIM_VENDOR_SK" isNullable="false"/>
+        <entry name="DIM_STORE_SK" type="int" expression="sales_fk_transformed.DIM_STORE_SK" isNullable="false"/>
+        <entry name="DIM_LOCATION_SK" type="int" expression="sales_fk_transformed.DIM_LOCATION_SK" isNullable="false"/>
+        <entry name="DIM_CITY_SK" type="int" expression="sales_fk_transformed.DIM_CITY_SK" isNullable="false"/>
+        <entry name="DIM_COUNTRY_SK" type="int" expression="sales_fk_transformed.DIM_COUNTRY_SK" isNullable="false"/>
+        <entry name="INVOICE_DATE" type="int" expression="sales_fk_transformed.invoice_date" isNullable="false"/>
+        <entry name="BOTTLE_SOLD" type="Integer" expression="sales_fk_transformed.Bottles_Sold " isNullable="true"/>
+        <entry name="SALE_DOLLARS" type="Float" expression="sales_fk_transformed.Sale__Dollars " isNullable="true"/>
+        <entry name="VOLUME_SOLD_IN_LITRES" type="Float" expression="sales_fk_transformed.Volume_Sold__Liters " isNullable="true"/>
+        <entry name="VOLUME_SOLD_IN_GALLONS" type="Float" expression="sales_fk_transformed.Volume_Sold__Gallons " isNullable="true"/>
+        <entry name="DW_LOAD_WORKFLOW_NAME" type="String" expression="context.workflow_name" isNullable="false"/>
+        <entry name="DW_LOAD_JOB_ID" type="String" expression="Var.dw_job_id " isNullable="false"/>
+        <entry name="DW_LOAD_DATE" type="java.util.Date" expression="Var.dw_load_date " isNullable="false"/>
+        <entry name="DIM_SOURCE_SK" type="int" expression="context.dim_source_stg_liquor_sales" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="var">
+    <table name="Var" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="dw_load_date" type="java.util.Date" expression="TalendDate.getCurrentDate() " isNullable="false"/>
+        <entry name="dw_job_id" type="String" expression="pid" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+</externalNode>

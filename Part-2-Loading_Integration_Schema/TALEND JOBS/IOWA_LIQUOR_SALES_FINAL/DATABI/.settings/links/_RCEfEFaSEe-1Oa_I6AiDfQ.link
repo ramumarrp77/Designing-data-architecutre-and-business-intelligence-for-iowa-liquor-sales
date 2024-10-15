@@ -1,0 +1,23 @@
+{
+  "itemId" : "_RCEfEFaSEe-1Oa_I6AiDfQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_FywuAFaSEe-1Oa_I6AiDfQ",
+    "parameterList" : [ {
+      "id" : "_FzKWoVaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Products_tsv_structured_RowSeparator"
+    }, {
+      "id" : "_FzKWolaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Products_tsv_structured_FieldSeparator"
+    }, {
+      "id" : "_FzKWo1aSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Products_tsv_structured_File"
+    }, {
+      "id" : "_FzKWpFaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Products_tsv_structured_Encoding"
+    }, {
+      "id" : "_FzKWpVaSEe-1Oa_I6AiDfQ",
+      "name" : "Iowa_Liquor_Products_tsv_structured_Header"
+    } ]
+  } ]
+}
